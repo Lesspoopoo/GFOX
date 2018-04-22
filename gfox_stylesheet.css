@@ -11,6 +11,16 @@ p	{
 	color: #33331a
 }
 
-#copybackdrop {
-	background-color: #6e5206;
+#header_text {
+	font-size: 40pt; 
+	text-decoration: underline; 
+	text-align: center; 
+	font-weight: bold; 
+	font-family: Comic Sans MS;
+}
+
+#list_text {
+	text-align: center; 
+	font-family: Comic Sans MS; 
+	font-weight: bold;
 }
